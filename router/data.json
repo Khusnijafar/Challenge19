@@ -1,0 +1,16 @@
+[
+   {
+      "string": "Khusni Jafar",
+      "integer": "23",
+      "float": "1.62",
+      "date": "2019-01-22",
+      "boolean": "false"
+   },
+   {
+      "string": "Tina Hidayatul Lastri",
+      "integer": "22",
+      "float": "1.62",
+      "date": "2019-01-12",
+      "boolean": "true"
+   }
+]
